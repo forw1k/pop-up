@@ -1,24 +1,21 @@
-# jm
+# Чтобы развернуть проект необходимо:
 
-## Project setup
+## Копировать репозиторий:
+
+```
+git clone git@github.com:forw1k/pop-up.git
+```
+
+## Перейти в папку с проектом
+
+## Установить зависимости
+
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+## Запустить
+
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
